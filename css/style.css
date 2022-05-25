@@ -1,3 +1,5 @@
+@import url('satoshi.css');
+
 body {
   height: 100vh;
   justify-content: center;
@@ -21,7 +23,7 @@ body {
 }
 
 h1 {
-  font-family: "Satoshi", sans-serif;
+  font-family: "Satoshi-BoldItalic", sans-serif;
   font-size: 1em;
   color: brown;
   text-align: center;
